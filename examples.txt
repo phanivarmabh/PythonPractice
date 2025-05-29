@@ -1,0 +1,4 @@
+line is of lines
+word is of words
+count the lines
+count the words
